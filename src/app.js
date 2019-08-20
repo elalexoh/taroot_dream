@@ -1,3 +1,4 @@
+import './main.scss';
 class Card {
 
   constructor(name, attack, defense) {
