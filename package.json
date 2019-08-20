@@ -1,0 +1,23 @@
+{
+  "name": "tarot_dreamer",
+  "version": "1.0.0",
+  "description": "Juego de cartas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elalexoh/taroot_dream.git"
+  },
+  "keywords": [
+    "carts",
+    "game"
+  ],
+  "author": "Frederick A. Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elalexoh/taroot_dream/issues"
+  },
+  "homepage": "https://github.com/elalexoh/taroot_dream#readme"
+}
